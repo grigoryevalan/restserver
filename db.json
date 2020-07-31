@@ -1,0 +1,54 @@
+{
+	"eventTypes": [
+		{
+			"name": "Педагоги и руководители",
+			"color": "rgb(248, 6, 6)",
+			"id": 1
+		},
+		{
+			"name": "Родители",
+			"color": "rgb(73, 184, 106)",
+			"id": 2
+		},
+		{
+			"name": "Ученики",
+			"color": "rgb(114, 128, 219)",
+			"id": 3
+		}
+	],
+	"events": [
+		{
+			"start": "2020-07-02 10:00:00",
+			"finish": "2020-07-02 14:00:00",
+			"title": "ГАУ ДПО ИО «Университет НОИ» проводит летнюю экологическую школу  (дистанционно, консультации)",
+			"body": "<p>Летняя экологическая школа (дистанционно, консультации) 02.07.2020 – 25.08.2020, ул.Ленинградская, д. 2.</p>",
+			"type": {
+				"name": "Ученики",
+				"color": "rgb(114, 128, 219)",
+				"id": 3
+			}
+		},
+		{
+			"start": "2020-07-14 10:00:00",
+			"finsih": "2020-07-14 14:00:00",
+			"title": "Профориентационное занятие \"После нас - тишина\"",
+			"body": "<p><span style=\"color: black;\">Семинар для родителей, которые хотят слышать красивую и четкую речь своего ребенка.</span></p><p><span style=\"color: black;\"> В раннем и дошкольном возрасте развитие речи ведет за собой все развитие ребенка, именно в этот сензитивный период важно, чтобы все стороны речи (лексическая, грамматическая, фонематическая) сформировались правильно.</span></p><p><span style=\"color: black;\"> </span></p><p><span style=\"color: black;\"> На семинаре вы рассмотрите:</span></p><p><span style=\"color: black;\"> - как развивается речь ребенка от 1 года до 7 лет;</span></p><p><span style=\"color: black;\"> - почему в 3 года он молчит;</span></p><p><span style=\"color: black;\"> - когда пора бить тревогу и обращаться к специалистам;</span></p><p><span style=\"color: black;\"> - что должен уметь ребенок к поступлению в 1 класс;</span></p><p><span style=\"color: black;\"> - нужно ли учить читать ребенка как можно раньше;</span></p><p><span style=\"color: black;\"> - приемы успешного речевого развития, которые может использовать родитель.</span></p><p><span style=\"color: black;\"> </span></p><p><span style=\"color: black;\"> </span><strong style=\"color: black;\">Ссылка на регистрацию:</strong><span style=\"color: black;\">&nbsp;</span><a href=\"https://vk.com/away.php?to=https%3A%2F%2Fleader-id.ru%2Fevent%2F37251%2F&amp;post=-36465345_6284&amp;cc_key=\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(42, 88, 133);\">https://leader-id.ru/event/37251/</a></p>",
+			"type": {
+				"name": "Родители",
+				"color": "rgb(73, 184, 106)",
+				"id": 2
+			}
+		},
+		{
+			"start": "2020-07-14 10:00:00",
+			"finsih": "2020-07-14 14:00:00",
+			"title": "Профориентационное занятие \"После нас - тишина\"",
+			"body": "<p class=\"ql-align-center\">Областная научно-техническая олимпиада «Юный космонавт»</p><p class=\"ql-align-center\"></p><p class=\"ql-align-justify\"> Спешим поделиться хорошей новостью. Запланированная областная научно-техническаяолимпиада «Юный космонавт» состоится! </p><p class=\"ql-align-justify\"> ОГАУ ДПО «Институт развития образования Ивановской области» предлагает пройти олимпиаду вонлайн-формате!</p><p class=\"ql-align-justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;В 2020 году Олимпиада приурочена к55-летию выхода человека в открытый космос.</p><p class=\"ql-align-justify\"> Олимпиада проводится среди учащихся, проявляющих интересы в области достиженийкосмонавтики, астрономии, математики и физики по следующим возрастным категориям:</p><p class=\"ql-align-justify\">- учащиеся 4-5 классов;</p><p class=\"ql-align-justify\">- учащиеся 6-8 классов.</p><p class=\"ql-align-justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Дата проведения Олимпиады: 28апреля 2020 г</strong>. Онлайн олимпиада будет проводиться в системе тестирования academic tests. </p><p class=\"ql-align-justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Условия участия:</strong></p><p class=\"ql-align-justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;в день проведения олимпиады выделить 1 часдля прохождения заданий;</p><p class=\"ql-align-justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;иметь выход в интернет;</p><p class=\"ql-align-justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>до 28 апреля податьзаявку</strong> на участие в олимпиаде по адресу <a href=\"mailto:tehniks37@iocrdod.ru\" rel=\"noopener noreferrer\"target=\"_blank\">tehniks37@iocrdod.ru</a> , указав фамилию и имя участника, муниципальный район, город, школу,класс и телефон для обратной связи.</p><p class=\"ql-align-justify\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;В ответном письме участник получает логини пароль для входа в систему тестирования <a href=\"https://academtest.ru/\" rel=\"noopener noreferrer\"target=\"_blank\">https://academtest.ru/</a>&nbsp;и инструкции для прохождения олимпиады.</p><p class=\"ql-align-justify\"> Олимпиада включает два блока:</p><p class=\"ql-align-justify\">1)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ответы на вопросы-тесты(35-40 вопросов) по истории отечественной и зарубежной космонавтики и астрономии. Поскольку Олимпиада приурочена к55-летию выхода человека в открытый космос, то в данном блоке также будут включены вопросы, посвященные данномусобытию.</p><p class=\"ql-align-justify\">2)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Выполнение заданийразличной степени сложности, определяющих уровень общих знаний, решение логических задач.</p><p class=\"ql-align-justify\"> Время прохождения олимпиады – один астрономический час. </p><p class=\"ql-align-justify\"> </p><p class=\"ql-align-justify\"> Победители и призеры Олимпиады определяются в личном зачете в каждой возрастной группе.Организаторы оставляют за собой право определить места среди школ, городов и муниципалитетов. Участники и команды,занявшие 1,2,3 места в каждой возрастной категории, награждаются дипломами Департамента образования Ивановской областии памятными подарками.</p><p class=\"ql-align-justify\"> Итоги олимпиады будут опубликованы 30 апреля 2020 г. на сайтах ОГАУ ДПО «Институтразвития образования Ивановской области» <a href=\"http://iocrdod.ru/?page_id=214\" rel=\"noopener noreferrer\"target=\"_blank\">http://iocrdod.ru/?page_id=214</a>, <a href=\"https://pedsovet37.ru/news\" rel=\"noopenernoreferrer\" target=\"_blank\">https://pedsovet37.ru/news</a>.</p><p class=\"ql-align-justify\"> По вопросам участия в олимпиаде обращаться:</p><p class=\"ql-align-justify\"> Барашкова Галина Сергеевна – 8-905-058-32-91;</p><p class=\"ql-align-justify\"> Жидкова Полина Дмитриевна – 8-960-508-67-90</p>",
+			"type": {
+				"name": "Педагоги и руководители",
+				"color": "rgb(248, 6, 6)",
+				"id": 1
+			}
+		}
+	]
+}
